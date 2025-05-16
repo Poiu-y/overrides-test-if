@@ -5,13 +5,13 @@ displayName: "IF overides test mod"
 name: "overides-if"
 
 #your name
-author: "You"
+author: "unit-thera"
 
 #the fully qualified main class of the mod
 #main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "a mod that shows hidden eriker blocks."
 
 #the mod version
 version: 1.0
