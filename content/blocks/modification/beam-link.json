@@ -1,8 +1,8 @@
 buildVisibility: shown
 requirements: [
-  item-beryllium/4500
-  item-graphite/1500
-  item-oxide/250
-  item-silicon/3800
-  item-thorium/60
+  beryllium/4500
+  graphite/1500
+  oxide/250
+  silicon/3800
+  thorium/60
 ]
