@@ -1,14 +1,14 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "IF overides test mod"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "overides-if"
 
 #your name
 author: "You"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+#main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
@@ -20,4 +20,4 @@ version: 1.0
 minGameVersion: 145
 
 #this is a java mod
-java: true
+#java: true
