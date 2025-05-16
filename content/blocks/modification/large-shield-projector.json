@@ -1,0 +1,19 @@
+buildVisibility: shown
+requirements: [
+  beryllium/60
+  graphite/30
+  silicon/30
+  thorium/20
+  surge-alloy/35
+  phase-fabric/10
+]
+consumes: {
+  power: 40
+  items: {
+    items: [
+      phase-fabric/2
+    ]
+    optional: true
+    booster: true
+  }
+}
