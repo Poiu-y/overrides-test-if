@@ -1,0 +1,6 @@
+buildVisibility: shown
+category: effect
+requirements: [
+  copper/1
+  lead/2
+]
