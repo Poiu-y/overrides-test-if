@@ -1,5 +1,6 @@
 buildVisibility: shown
-category: effect
+placeableLiquid: true
+category: liquid
 requirements: [
   sand/4
 ]
