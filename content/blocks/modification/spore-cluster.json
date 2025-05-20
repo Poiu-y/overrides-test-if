@@ -1,0 +1,5 @@
+buildVisibility: shown
+category: effect
+requirements: [
+  spore-pod/15
+]
