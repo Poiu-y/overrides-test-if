@@ -1,0 +1,5 @@
+buildVisibility: shown
+category: effect
+requirements: [
+  sand/15
+]
