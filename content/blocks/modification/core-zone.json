@@ -1,0 +1,6 @@
+buildVisibility: shown
+category: effect
+requirements: [
+  surge-alloy/50
+  lead/14
+]
