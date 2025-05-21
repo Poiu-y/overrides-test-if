@@ -7,6 +7,8 @@ name: "overides-if"
 #your name
 author: "unit-thera"
 
+hidden: true
+
 #the fully qualified main class of the mod
 #main: "example.ExampleJavaMod"
 
