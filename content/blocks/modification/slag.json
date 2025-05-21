@@ -1,0 +1,6 @@
+buildVisibility: shown
+category: liquid
+requirements: [
+  blast-compound/50
+  pyratite/100
+]
