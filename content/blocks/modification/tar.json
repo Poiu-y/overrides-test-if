@@ -2,4 +2,5 @@ buildVisibility: shown
 category: effect
 requirements: [
   blast-compound/5
+  spore-pod/100
 ]
