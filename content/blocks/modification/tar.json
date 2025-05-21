@@ -1,5 +1,5 @@
 buildVisibility: shown
-category: effect
+category: liquid
 requirements: [
   blast-compound/5
   spore-pod/100
