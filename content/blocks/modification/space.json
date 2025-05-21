@@ -1,0 +1,5 @@
+buildVisibility: shown
+category: effect
+requirements: [
+  blast-compound/5
+]
