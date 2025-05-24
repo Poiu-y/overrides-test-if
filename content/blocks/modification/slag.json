@@ -1,4 +1,5 @@
 buildVisibility: shown
+placeableLiquid: true
 category: liquid
 requirements: [
   blast-compound/50
