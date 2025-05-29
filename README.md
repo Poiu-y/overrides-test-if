@@ -1,1 +1,1 @@
-a mod that shows hidden eriker blocks
+a mod that shows hidden blocks
